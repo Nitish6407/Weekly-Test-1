@@ -1,0 +1,11 @@
+These are the common hockey equipments:-
+1.Hockey Stick
+2.Hockey Ball
+3.Shin Guards
+4.Mouthguard
+5.Gloves
+6.Cleats
+7.Protective Gear for Goalkeepers
+8.Jersey
+9.Socks
+
