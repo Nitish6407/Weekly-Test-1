@@ -1,0 +1,10 @@
+These are the common football equipments:
+1.Football
+2.Jersey
+3.Shorts
+4.Socks
+5.Shin Guards
+6.Boots
+7.Goalkeeper Gloves
+8.Training Bibs
+9.Captain's Armband
